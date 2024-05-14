@@ -1,0 +1,11 @@
+# ninja log v5
+3	136	1714913678719869263	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	13d22ff1b5df3e85
+136	246	1714913678807296353	/Users/utshuk/mixed_reality_hand_tracking/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6z434b29/obj/arm64-v8a/libswappywrapper.so	24e2ee238d15d332
+2	524	1714913679106940021	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	411f028cb8bfdcc8
+1	528	1714913679111242912	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	1bab957cf37bed13
+2	562	1714913679144412125	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ff2c6d8c3db1c12
+3	626	1714913679208731542	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	62c7ffc3edecc07
+1	664	1714913679247464485	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d61e8207b0803f29
+2	801	1714913679383152430	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	55c93d6d85a86bee
+1	874	1714913679457001051	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	75e2f662010ce93a
+874	986	1714913679543795889	/Users/utshuk/mixed_reality_hand_tracking/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6z434b29/obj/arm64-v8a/libgame.so	1bf802255a4f3b8e

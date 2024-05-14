@@ -1,0 +1,8 @@
+/Users/utshuk/mixed_reality_hand_tracking/.utmp/RelWithDebInfo/6z434b29/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/utshuk/mixed_reality_hand_tracking/.utmp/RelWithDebInfo/6z434b29/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/utshuk/mixed_reality_hand_tracking/.utmp/RelWithDebInfo/6z434b29/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/utshuk/mixed_reality_hand_tracking/.utmp/RelWithDebInfo/6z434b29/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/utshuk/mixed_reality_hand_tracking/.utmp/RelWithDebInfo/6z434b29/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+/Users/utshuk/mixed_reality_hand_tracking/.utmp/RelWithDebInfo/6z434b29/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/utshuk/mixed_reality_hand_tracking/.utmp/RelWithDebInfo/6z434b29/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/utshuk/mixed_reality_hand_tracking/.utmp/RelWithDebInfo/6z434b29/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
